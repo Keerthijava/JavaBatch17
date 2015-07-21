@@ -4,7 +4,7 @@ public class RelationalOperator {
 
 	public static void main(String[] args) {
 		int DadAge = 40;
-		int MomAge = 38;
+		int MomAge = 38;    
 		// System.out.println(DadAge == MomAge);
 		/*
 		 * == 
